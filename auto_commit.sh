@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cp -r ~/../Shared/Unity/illumiball/* ./
 #while true
 #do
   git add .
